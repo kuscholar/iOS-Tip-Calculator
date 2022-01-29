@@ -29,7 +29,9 @@ Here's a walkthrough of implemented user stories:
 
 < img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![](https://i.imgur.com/qzclPUq.gif)
+
+GIF created with [EZGif](https://ezgif.com/video-to-gif/).
 
 ## Notes
 
@@ -50,3 +52,4 @@ There are many ways to transfer variable between classes in Swift. Here we are u
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
